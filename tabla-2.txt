@@ -1,0 +1,10 @@
+ El resultado de 2 * 1 = 2 
+ El resultado de 2 * 2 = 4 
+ El resultado de 2 * 3 = 6 
+ El resultado de 2 * 4 = 8 
+ El resultado de 2 * 5 = 10 
+ El resultado de 2 * 6 = 12 
+ El resultado de 2 * 7 = 14 
+ El resultado de 2 * 8 = 16 
+ El resultado de 2 * 9 = 18 
+ El resultado de 2 * 10 = 20 
